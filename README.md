@@ -1,2 +1,3 @@
 # Project Euler
-My project Euler's solutions with Python
+
+Here you can find my solutions to the problems of the Project Euler, using Python.
