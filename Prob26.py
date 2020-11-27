@@ -5,7 +5,7 @@
 
 # Listing all primes
 
-from Euler import is_prime
+from Eulerlib.Euler import is_prime
 
 primes = [i for i in range(2, 1000) if is_prime(i)]
 

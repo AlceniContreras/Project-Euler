@@ -3,7 +3,7 @@
 # Quadratic primes
 # ----------------
 
-from Euler import is_prime, get_key
+from Eulerlib.Euler import is_prime, get_key
 
 def count_primes(a, b):
     def f(n):
